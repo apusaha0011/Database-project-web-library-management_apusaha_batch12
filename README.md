@@ -1,4 +1,4 @@
-### Project Documentation: Online Bookstore App
+### Project Documentation:  Web Library App
 
 This is an online bookstore application that integrates a Flutter frontend with a Node.js backend to interact with an Oracle database. The system is designed to manage authors, books, customers, purchases, and purchase items.
 
